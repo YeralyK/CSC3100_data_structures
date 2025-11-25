@@ -1,5 +1,5 @@
 # CSC3100 – Data Structures  
-### Coursework Portfolio by *[Your Name]*
+### Coursework Portfolio by *[Yeraly Kaimolda]*
 
 This repository contains all programming assignments, reports, and implementations I completed in **CSC3100 – Data Structures** at CUHK-Shenzhen.
 
